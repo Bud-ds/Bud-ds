@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bud-ds
 - 👀 I’m interested in simplifying Machine Learning
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 🌱 I’m currently learning Machine Learning Engineering
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 Reach me here: bud.russell@dcsg.com
 
